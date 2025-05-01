@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+}
+form input, form button {
+    display: block;
+    margin: 10px 0;
+}
